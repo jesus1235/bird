@@ -76,7 +76,7 @@ var mainState = {
                 this.addOnePipe(400, i * 60 + 10);
 
                 this.score += 1;
-          this.labelScore.text = this.score;  
+          this.labelScore.text = this.score;
     },
 };
 
